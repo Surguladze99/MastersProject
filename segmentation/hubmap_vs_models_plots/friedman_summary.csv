@@ -1,0 +1,8 @@
+metric,n_regions,methods,chi2,p
+match_rate_method,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",36.214285714285694,8.605258097611119e-07
+cellcount_diff,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",30.357142857142833,1.2543373969934293e-05
+f1_macro,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",23.5,0.0002707985873369529
+purity,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",16.14285714285714,0.006447827778183805
+f1_weighted,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",13.428571428571416,0.01967708158057016
+nmi,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",5.357142857142861,0.3738650162001312
+ari,8,"['CellSAM', 'Cellpose', 'CellposeSAM', 'InstanSeg', 'Mesmer', 'MicroSAM']",4.785714285714278,0.4425877593549069

@@ -1,0 +1,16 @@
+metric,A,B,p_value,p_adj_holm,reject_0.05,median_diff(A-B)
+cellcount_diff,CellSAM,CellposeSAM,0.0078125,0.1171875,False,-2630.0
+cellcount_diff,CellSAM,InstanSeg,0.0078125,0.1171875,False,-4912.5
+cellcount_diff,Cellpose,InstanSeg,0.0078125,0.1171875,False,-5375.0
+cellcount_diff,Cellpose,CellposeSAM,0.0078125,0.1171875,False,-3760.0
+cellcount_diff,CellposeSAM,Mesmer,0.0078125,0.1171875,False,2762.5
+cellcount_diff,InstanSeg,Mesmer,0.0078125,0.1171875,False,5103.0
+cellcount_diff,Cellpose,MicroSAM,0.0078125,0.1171875,False,-6583.5
+cellcount_diff,CellSAM,MicroSAM,0.015625,0.125,False,-6451.5
+cellcount_diff,CellposeSAM,MicroSAM,0.0234375,0.125,False,-3519.0
+cellcount_diff,Mesmer,MicroSAM,0.015625,0.125,False,-6555.5
+cellcount_diff,CellposeSAM,InstanSeg,0.015625,0.125,False,-1967.5
+cellcount_diff,Cellpose,Mesmer,0.0390625,0.15625,False,-1447.0
+cellcount_diff,CellSAM,Cellpose,0.109375,0.328125,False,1201.0
+cellcount_diff,InstanSeg,MicroSAM,0.25,0.5,False,-1539.5
+cellcount_diff,CellSAM,Mesmer,0.640625,0.640625,False,-192.0

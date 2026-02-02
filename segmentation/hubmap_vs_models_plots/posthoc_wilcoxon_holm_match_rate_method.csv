@@ -1,0 +1,16 @@
+metric,A,B,p_value,p_adj_holm,reject_0.05,median_diff(A-B)
+match_rate_method,CellSAM,Cellpose,0.015625,0.1171875,False,0.02432658233875451
+match_rate_method,CellSAM,CellposeSAM,0.0078125,0.1171875,False,0.04490119890365579
+match_rate_method,CellSAM,InstanSeg,0.0078125,0.1171875,False,0.09064414950480731
+match_rate_method,CellSAM,MicroSAM,0.0078125,0.1171875,False,0.10522233576537726
+match_rate_method,Cellpose,InstanSeg,0.0078125,0.1171875,False,0.07566589782338845
+match_rate_method,Cellpose,CellposeSAM,0.0078125,0.1171875,False,0.025459838222437636
+match_rate_method,CellposeSAM,InstanSeg,0.0078125,0.1171875,False,0.049298082186017556
+match_rate_method,Cellpose,MicroSAM,0.0078125,0.1171875,False,0.07563192617112557
+match_rate_method,InstanSeg,Mesmer,0.0078125,0.1171875,False,-0.10091703271192926
+match_rate_method,Mesmer,MicroSAM,0.0078125,0.1171875,False,0.10179280238238153
+match_rate_method,CellposeSAM,Mesmer,0.0078125,0.1171875,False,-0.04509428835897061
+match_rate_method,CellposeSAM,MicroSAM,0.0078125,0.1171875,False,0.052876273298149756
+match_rate_method,Cellpose,Mesmer,0.109375,0.328125,False,-0.027182491317097157
+match_rate_method,CellSAM,Mesmer,0.640625,1.0,False,0.002545011150925758
+match_rate_method,InstanSeg,MicroSAM,0.9453125,1.0,False,-0.0014771706101462945

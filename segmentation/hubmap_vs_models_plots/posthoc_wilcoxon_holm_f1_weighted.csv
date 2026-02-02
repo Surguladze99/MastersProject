@@ -1,0 +1,16 @@
+metric,A,B,p_value,p_adj_holm,reject_0.05,median_diff(A-B)
+f1_weighted,Cellpose,CellposeSAM,0.015625,0.234375,False,0.040866232140489345
+f1_weighted,CellposeSAM,MicroSAM,0.0234375,0.328125,False,-0.031077741318648544
+f1_weighted,Cellpose,Mesmer,0.0390625,0.5078125,False,0.039113662574322194
+f1_weighted,CellSAM,Cellpose,0.0390625,0.5078125,False,-0.02565062966076717
+f1_weighted,CellposeSAM,InstanSeg,0.0390625,0.5078125,False,-0.03895704453717019
+f1_weighted,Mesmer,MicroSAM,0.078125,0.78125,False,-0.026970031614149848
+f1_weighted,CellSAM,MicroSAM,0.109375,0.984375,False,-0.018483363990858787
+f1_weighted,CellSAM,CellposeSAM,0.109375,0.984375,False,0.014250139337065065
+f1_weighted,Cellpose,InstanSeg,0.640625,1.0,False,0.003754209099759903
+f1_weighted,CellSAM,Mesmer,0.25,1.0,False,0.008540807267422346
+f1_weighted,CellSAM,InstanSeg,0.25,1.0,False,-0.007815481950495973
+f1_weighted,Cellpose,MicroSAM,0.546875,1.0,False,0.001965371549338013
+f1_weighted,CellposeSAM,Mesmer,0.1953125,1.0,False,-0.0030913765726225395
+f1_weighted,InstanSeg,Mesmer,0.1953125,1.0,False,0.02184068878789802
+f1_weighted,InstanSeg,MicroSAM,1.0,1.0,False,0.0001985463332711268
